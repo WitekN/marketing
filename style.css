@@ -391,6 +391,9 @@ body {
     }
 }
 /*----------------Pricing-HTML----------------*/
+.pricing {
+	padding: 120px 0px;
+}
 .advantages__sub-text {
 }
 .sub-text__list {
