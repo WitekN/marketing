@@ -391,9 +391,6 @@ body {
     }
 }
 /*----------------Pricing-HTML----------------*/
-.pricing {
-	padding: 80px 0px;
-}
 .advantages__sub-text {
 }
 .sub-text__list {
@@ -461,7 +458,7 @@ body {
 }
 @media (max-width: 992px){
     .advantages {
-        padding: 50px 0px;
+        padding: 60px 0px;
     }
 }
 @media (max-width: 767px){
@@ -479,7 +476,7 @@ body {
 }
 @media (max-width: 479px){
     .advantages {
-        padding: 40px 0px;
+        padding: 50px 0px;
     }
 }
 
